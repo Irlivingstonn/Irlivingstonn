@@ -12,11 +12,14 @@ My name is Isabella 👩‍💻, and I am a graduate student in Computer Science
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irlivingstonn&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=irlivingstonn&theme=transparent&hide_border=false)  
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Irlivingstonn&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true&card_width=600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irlivingstonn&layout=compact&theme=transparent&hide_border=false&langs_count=8)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Irlivingstonn&theme=transparent&hide_border=false&card_width=600)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Irlivingstonn&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=600)
+
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Irlivingstonn&limit=8&theme=transparent&combine_all_yearly_contributions=true&card_width=600&custom_title=Top%20Contributed%20GitHub%20Repositories) -->
 
 ## 🏆 GitHub Trophies  
 

@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Isabella, and I am a graduate student in Computer Science 🎓, pursing my M.S. with a thesis on deep learning for keypoint reconstructions from video streams 🧠. I am passionate about robotics 🤖, machine learning & AI 💡, computer vision 👁️, motion planning 🛠️, data analysis 📊, and simulation environments like Gazebo 🌍 and RViz 🎮.
+My name is Isabella 👩‍💻, and I am a graduate student in Computer Science 🎓, pursing my M.S. with a thesis on deep learning for keypoint reconstructions from video streams 🧠. I am passionate about robotics 🤖, machine learning & AI 💡, computer vision 👁️, motion planning 🛠️, data analysis 📊, and simulation environments like Gazebo 🌍 and RViz 🎮.
 
 ## 🚀 Tech Skills  
 

@@ -4,7 +4,7 @@ My name is Isabella 👩‍💻, and I am a graduate student in Computer Science
 
 ## 🌐 Socials
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/isabella-livingston-285050241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/isabella-livingston-285050241/)
 
 ## 🚀 Tech Skills  
 
